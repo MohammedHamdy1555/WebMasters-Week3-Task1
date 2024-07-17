@@ -1,0 +1,28 @@
+.navbar{
+  height: 56px;
+  line-height: 56px;
+  padding: 0 26px;
+  background-color: #4CAF50;
+  border: solid 1px #4CAF50;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.show-cart li {
+  display: flex;
+}
+.card {
+  margin-bottom: 20px;
+}
+.card-img-top {
+  width: 200px;
+  height: 200px;
+  align-self: center;
+}
